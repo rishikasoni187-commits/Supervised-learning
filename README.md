@@ -62,7 +62,7 @@ Variables or Features and their Thresholds for Classification
 
 * **Determination of an appropriate Classification Model based on Performance Metrics**
 
-For Analysis: 
+### **For Analysis:**
 5001 Random Records were created using last 3 digits of Roll Number as “random_state” everywhere.
 roll no. - 065099
 dataframe name was created using 1st two letters of name (rishika soni) + last 3 digits of roll no. **rs099**
